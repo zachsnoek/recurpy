@@ -1,0 +1,7 @@
+.pyc
+/dist/
+/*.egg-info
+recurpy/__pycache__
+recurpy/credentials.json
+recurpy/events.db
+recurpy/token.pickle
